@@ -4,6 +4,8 @@ Projeto pessoal em Python para transformar um arquivo CSV de vendas em um resumo
 
 O exemplo usa dados sinteticos. O programa le o arquivo de entrada sem altera-lo e grava os relatorios em novos arquivos.
 
+Este projeto foi preparado com apoio de IA como material inicial de portfólio. Revise e compreenda o código antes de adaptá-lo ou apresentá-lo.
+
 ## Recursos
 
 - Confere colunas obrigatorias, datas, quantidades e valores.
